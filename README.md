@@ -1,4 +1,4 @@
-# mini-modified-functions
+# minfi-modified-functions
 
 As described in poster 436F, ASHG 2015 annual meeting,
 "Adjusting Infinium methylation profiles to suppress signals from varying cell proportion". 
